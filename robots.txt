@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-eaajf3.saturadar88win.cfd/sitemap.xml
